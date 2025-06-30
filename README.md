@@ -1,6 +1,8 @@
 # s3-bucket-take-0v3r
 S3 Bucket Takeover Scanner &amp; Claim Tool
 
+![s3-bucket-take-0v3r](https://github.com/user-attachments/assets/06758ba8-e4de-42f0-8140-4ad97db95a6e)
+
 
 ## 📌 Description
 
