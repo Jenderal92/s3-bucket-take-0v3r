@@ -48,12 +48,14 @@ This tool is ideal for bug bounty hunting, cloud asset auditing, or legal penetr
 example1.com
 example2.com
 
-````
+
 
 ### 2. Run the Tool
+
 ```bash
 python2 script.py domains.txt
-````
+
+```
 
 ### 3. Output
 
